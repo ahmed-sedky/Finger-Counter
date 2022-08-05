@@ -14,5 +14,5 @@ Author: Ahmed Hossam Sedky
     
 
 ## Output
-![1st Example of output](images/output.PNG "1st Example Of Output")
-![2nd Example of output](images/output2.PNG "2nd Example Of Output")
+![1st Example of output](https://raw.githubusercontent.com/ahmed-sedky/Finger-Counter/master/Images/output.PNG "1st Example Of Output")
+![2nd Example of output](https://raw.githubusercontent.com/ahmed-sedky/Finger-Counter/master/Images/output2.PNG "2nd Example Of Output")
