@@ -14,4 +14,5 @@ Author: Ahmed Hossam Sedky
     
 
 ## Output
-![Example of output](images/output.PNG "Example Of Output")
+![1st Example of output](images/output.PNG "1st Example Of Output")
+![2nd Example of output](images/output2.PNG "2nd Example Of Output")
