@@ -1,4 +1,4 @@
-# Volume Hand Control
+# Finger Counter
 Author: Ahmed Hossam Sedky
 ----
 ## Libraries versions
